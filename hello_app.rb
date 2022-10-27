@@ -11,4 +11,5 @@ get '/' do
     "bio" => "I'm a passionate and curious person. I Play. I Barb. I Code. I Write"
   }
   data.to_json
+  
 end
