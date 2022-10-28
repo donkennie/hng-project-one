@@ -1,2 +1,2 @@
-require './hello_app.rb'
-run sinatra::Application
+require './hello_app'
+run Sinatra::Application
