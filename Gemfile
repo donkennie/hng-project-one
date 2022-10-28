@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
-ruby '3.1.2p20'
+ruby '3.1.2'
 gem 'sinatra', '2.2.0'
 gem 'puma', '5.6.4'
