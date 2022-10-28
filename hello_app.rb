@@ -7,7 +7,7 @@ get '/' do
   {
     "slackUsername" => "DonKennie", 
     "backend" => true,
-    "age" => 20,
+    "age" => 21,
     "bio" => "I'm a passionate and curious person. I Play. I Barb. I Code. I Write"
   }
   data.to_json
